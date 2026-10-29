@@ -1,0 +1,2 @@
+-rw------- 1 l9irsh l9irsh 32 Oct 28 21:23 demo.txt
+-rwx------ 1 l9irsh l9irsh 18 Oct 28 21:45 hello.sh
