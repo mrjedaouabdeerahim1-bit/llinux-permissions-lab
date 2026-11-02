@@ -68,3 +68,7 @@ See `evidence/permissions.txt` for the final file permissions.
 Tests were performed with one regular user account.
 Access from a second user account was not tested.
 Repeating the write test adds another line to demo.txt.
+## Git Practice
+
+I cloned this repository using Git.
+I am learning how to track and review changes locally.
